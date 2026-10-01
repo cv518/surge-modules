@@ -1,6 +1,6 @@
 # Surge Modules
 
-Loon 插件Script-Hub自动转换后的 Surge 模块集合。
+可莉大佬 Loon 插件通过Script-Hub自动转换后的 Surge 模块集合。
 不保证所有可用。
 
 ## 在线网站
