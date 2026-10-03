@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02 06:00:00 UTC",
-  "count": 272,
+  "updated": "2026-10-03 05:35:30 UTC",
+  "count": 275,
   "modules": [
     {
       "name": "1.1.1.1配置管理",
@@ -8,7 +8,7 @@
       "filename": "1.1.1.1.sgmodule",
       "url": "https://surge.252725.xyz/module/1.1.1.1.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/1.1.1.1.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "配置管理"
       ]
@@ -19,7 +19,7 @@
       "filename": "12306_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/12306_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/12306.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -30,7 +30,7 @@
       "filename": "123NetWorkDisk_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/123NetWorkDisk_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/123NetWorkDisk.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -41,7 +41,7 @@
       "filename": "2bulu_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/2bulu_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/2bulu.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -52,7 +52,7 @@
       "filename": "360SmartCamera_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/360SmartCamera_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/360SmartCamera.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -63,7 +63,7 @@
       "filename": "36Kr_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/36Kr_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/36Kr.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -74,7 +74,7 @@
       "filename": "51Job_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/51Job_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/51Job.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -85,7 +85,7 @@
       "filename": "555DY_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/555DY_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/555DY.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -96,7 +96,7 @@
       "filename": "5EPlay_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/5EPlay_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/5EPlay.png",
-      "date": "2026-08-24 18:59:19",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -107,7 +107,7 @@
       "filename": "91160_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/91160_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/91160.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -118,7 +118,7 @@
       "filename": "Aiinquiry_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Aiinquiry_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Aiinquiry.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -129,7 +129,7 @@
       "filename": "AlcidaeVideo_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/AlcidaeVideo_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/AlcidaeVideo.png",
-      "date": "2026-07-03 11:35:16",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -140,7 +140,7 @@
       "filename": "AliYunDrive_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/AliYunDrive_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/AliYunDrive.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -151,7 +151,7 @@
       "filename": "Amap_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Amap_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Amap.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -162,7 +162,7 @@
       "filename": "AppleWeatherEnhancer.sgmodule",
       "url": "https://surge.252725.xyz/module/AppleWeatherEnhancer.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/AppleWeather.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "功能增强"
       ]
@@ -173,7 +173,7 @@
       "filename": "AutoHome_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/AutoHome_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/AutoHome.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -184,7 +184,7 @@
       "filename": "Auto_Join_TF.sgmodule",
       "url": "https://surge.252725.xyz/module/Auto_Join_TF.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TestFlight.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "定时任务"
       ]
@@ -195,7 +195,7 @@
       "filename": "AxWorkSchedule_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/AxWorkSchedule_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/AxWorkSchedule.png",
-      "date": "2026-07-02 00:10:15",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -206,7 +206,7 @@
       "filename": "BabyTree_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BabyTree_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BabyTree.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -217,7 +217,7 @@
       "filename": "BaiduMap_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BaiduMap_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BaiduMap.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -228,7 +228,7 @@
       "filename": "BaiduNetDisk_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BaiduNetDisk_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BaiduNetDisk.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -239,7 +239,7 @@
       "filename": "BaiduPhoto_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BaiduPhoto_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BaiduPhoto.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -250,7 +250,7 @@
       "filename": "BaiduSearchWebpage_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BaiduSearchWebpage_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Baidu.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -261,7 +261,7 @@
       "filename": "BaiduTranslate_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BaiduTranslate_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BaiduTranslate.png",
-      "date": "2026-06-30 23:28:03",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -272,7 +272,7 @@
       "filename": "BaiduWenku_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BaiduWenku_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BaiduWenku.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -283,7 +283,7 @@
       "filename": "Baidu_input_method_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Baidu_input_method_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Baidu_input_method.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -294,7 +294,7 @@
       "filename": "Beike_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Beike_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Beike.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -305,7 +305,18 @@
       "filename": "BiliComic_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BiliComic_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BiliComic.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
+      "tag": [
+        "去广告"
+      ]
+    },
+    {
+      "name": "哔哩哔哩去广告",
+      "description": "过滤哔哩哔哩广告、移除青少年模式弹窗和交互式弹幕、移除无用功能和链接跟踪参数，增加空降助手以便跳过视频中插入的广告。此插件仅建议iOS 15以上设备使用，且必须启用MitM-over-HTTP/2功能。\\n\\n空降助手是第三方提供的功能，依赖于Android版空降助手的服务器数据运作，可能会存在不准确或者失效的问题，此功能与哔哩哔哩官方无关。",
+      "filename": "Bilibili_remove_ads.sgmodule",
+      "url": "https://surge.252725.xyz/module/Bilibili_remove_ads.sgmodule",
+      "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Bilibili.png",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -316,7 +327,7 @@
       "filename": "BitqiuPan_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BitqiuPan_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BitqiuPan.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -327,7 +338,7 @@
       "filename": "Bixin_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Bixin_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Bixin.png",
-      "date": "2026-08-28 17:10:45",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -338,7 +349,7 @@
       "filename": "BlockAdvertisers.sgmodule",
       "url": "https://surge.252725.xyz/module/BlockAdvertisers.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/Website_icon/120px/TencentAd.png",
-      "date": "2026-09-23 11:35:33",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告",
         "依赖"
@@ -350,7 +361,7 @@
       "filename": "Block_HTTPDNS.sgmodule",
       "url": "https://surge.252725.xyz/module/Block_HTTPDNS.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/HTTPDNS.png",
-      "date": "2026-09-28 23:26:14",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告",
         "依赖"
@@ -362,7 +373,7 @@
       "filename": "BodianMusic_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BodianMusic_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BodianMusic.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -373,7 +384,7 @@
       "filename": "BooHee_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/BooHee_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BooHee.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -384,7 +395,7 @@
       "filename": "BoxJs.sgmodule",
       "url": "https://surge.252725.xyz/module/BoxJs.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/BoxJS.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "数据管理"
       ]
@@ -395,7 +406,7 @@
       "filename": "CCLive_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/CCLive_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/CCLive.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -406,7 +417,7 @@
       "filename": "CSG_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/CSG_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/CSG.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -417,7 +428,7 @@
       "filename": "Cainiao_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Cainiao_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Cainiao.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -428,7 +439,7 @@
       "filename": "CaixinMedia_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/CaixinMedia_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/CaixinMedia.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -439,7 +450,7 @@
       "filename": "CatEarFM_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/CatEarFM_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/CatEarFM.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -450,7 +461,7 @@
       "filename": "Cece_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Cece_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Cece.png",
-      "date": "2026-05-13 00:20:48",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -461,7 +472,7 @@
       "filename": "ChaoXingStudy_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ChaoXingStudy_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ChaoXingStudy.png",
-      "date": "2026-06-30 19:09:23",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -472,7 +483,7 @@
       "filename": "ChatCam_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ChatCam_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ChatCam.png",
-      "date": "2026-07-02 19:32:38",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -483,7 +494,7 @@
       "filename": "Chelaile_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Chelaile_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Chelaile.png",
-      "date": "2026-07-04 19:58:28",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -494,7 +505,7 @@
       "filename": "ChengFenMiao_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ChengFenMiao_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ChengFenMiao.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -505,7 +516,7 @@
       "filename": "Chuzhan_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Chuzhan_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Chuzhan.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -516,7 +527,7 @@
       "filename": "ColorfulClouds_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ColorfulClouds_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ColorfulClouds.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -527,7 +538,7 @@
       "filename": "CoolApk_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/CoolApk_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/CoolApk.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -538,7 +549,7 @@
       "filename": "CosmosPodcast_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/CosmosPodcast_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/CosmosPodcast.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -549,7 +560,7 @@
       "filename": "CrazyRope_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/CrazyRope_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/CrazyRope.png",
-      "date": "2026-07-01 00:19:10",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -560,7 +571,7 @@
       "filename": "DREAME_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DREAME_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DREAME.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -571,7 +582,7 @@
       "filename": "Daily_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Daily_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Daily.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -582,7 +593,7 @@
       "filename": "Damai_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Damai_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Damai.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -593,7 +604,7 @@
       "filename": "Dayima_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Dayima_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Dayima.png",
-      "date": "2026-07-03 08:57:49",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -604,7 +615,7 @@
       "filename": "Dewu_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Dewu_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Dewu.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -615,7 +626,7 @@
       "filename": "DiDi_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DiDi_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DiDi.png",
-      "date": "2026-09-11 00:35:13",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -626,7 +637,7 @@
       "filename": "DidaPincheTaxi_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DidaPincheTaxi_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DidaPincheTaxi.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -637,7 +648,7 @@
       "filename": "DigitalHeartbeat_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DigitalHeartbeat_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DigitalHeartbeat.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -648,7 +659,7 @@
       "filename": "DingdongMaicai_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DingdongMaicai_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DingdongMaicai.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -659,7 +670,7 @@
       "filename": "DjDuoDuo_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DjDuoDuo_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DjDuoDuo.png",
-      "date": "2026-08-22 12:51:37",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -670,7 +681,7 @@
       "filename": "Dlabel_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Dlabel_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Dlabel.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -681,7 +692,7 @@
       "filename": "DouBan_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DouBan_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DouBan.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -692,7 +703,7 @@
       "filename": "DoubanRead_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DoubanRead_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DoubanRead.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -703,7 +714,7 @@
       "filename": "Douyu_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Douyu_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Douyu.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -714,7 +725,7 @@
       "filename": "DragonRead_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DragonRead_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DragonRead.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -725,7 +736,7 @@
       "filename": "DubbingShow_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DubbingShow_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DubbingShow.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -736,7 +747,7 @@
       "filename": "DuiTang_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/DuiTang_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DuiTang.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -747,7 +758,7 @@
       "filename": "EasyBike_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/EasyBike_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/EasyBike.png",
-      "date": "2026-08-22 12:51:37",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -758,7 +769,7 @@
       "filename": "EasyCharge_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/EasyCharge_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/EasyCharge.png",
-      "date": "2026-07-02 18:48:17",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -769,7 +780,7 @@
       "filename": "EcovacsHome_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/EcovacsHome_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/EcovacsHome.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -780,7 +791,7 @@
       "filename": "EtouchEcalendar_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/EtouchEcalendar_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/EtouchEcalendar.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -791,7 +802,7 @@
       "filename": "FC_Box_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/FC_Box_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/FC_Box.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -802,7 +813,7 @@
       "filename": "FenBi_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/FenBi_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/FenBi.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -813,7 +824,7 @@
       "filename": "FerrisWheel_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/FerrisWheel_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/FerrisWheel.png",
-      "date": "2026-06-02 02:30:18",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -824,7 +835,7 @@
       "filename": "Fileball_mount.sgmodule",
       "url": "https://surge.252725.xyz/module/Fileball_mount.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Fileball.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "功能增强"
       ]
@@ -835,7 +846,7 @@
       "filename": "FinanceNews_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/FinanceNews_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/FinanceNews.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -846,7 +857,7 @@
       "filename": "FleaMarket_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/FleaMarket_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/FleaMarket.png",
-      "date": "2026-09-28 17:03:58",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -857,7 +868,7 @@
       "filename": "FlyerTea_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/FlyerTea_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/FlyerTea.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -868,7 +879,7 @@
       "filename": "FollowRSS_checkin.sgmodule",
       "url": "https://surge.252725.xyz/module/FollowRSS_checkin.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/FollowRSS.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "签到"
       ]
@@ -879,7 +890,7 @@
       "filename": "Foodie_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Foodie_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Foodie.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -890,7 +901,7 @@
       "filename": "GaoDing_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/GaoDing_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/GaoDing.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -901,7 +912,7 @@
       "filename": "Google.sgmodule",
       "url": "https://surge.252725.xyz/module/Google.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Google.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -912,7 +923,7 @@
       "filename": "GuideRank_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/GuideRank_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/GuideRank.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -923,7 +934,7 @@
       "filename": "HKDouYin_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/HKDouYin_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TikTok.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -934,7 +945,7 @@
       "filename": "HUPU_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/HUPU_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/HUPU.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -945,7 +956,7 @@
       "filename": "HantingHotels_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/HantingHotels_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/HantingHotels.png",
-      "date": "2026-06-12 16:06:38",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -956,7 +967,7 @@
       "filename": "HeartideBrainWave_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/HeartideBrainWave_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/HeartideBrainWave.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -967,7 +978,7 @@
       "filename": "Himalaya_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Himalaya_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Himalaya.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -978,7 +989,7 @@
       "filename": "HongKongToolbar_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/HongKongToolbar_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/HongKongToolbar.png",
-      "date": "2026-06-24 16:45:00",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -989,7 +1000,7 @@
       "filename": "Huxiu_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Huxiu_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Huxiu.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1000,7 +1011,7 @@
       "filename": "IPATool.sgmodule",
       "url": "https://surge.252725.xyz/module/IPATool.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/IPATool.png",
-      "date": "2026-06-14 20:11:24",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "功能增强"
       ]
@@ -1011,7 +1022,7 @@
       "filename": "IThome_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/IThome_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/IThome.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1022,7 +1033,7 @@
       "filename": "JDWaimai_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/JDWaimai_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/JDWaimai.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1033,7 +1044,7 @@
       "filename": "JD_Price.sgmodule",
       "url": "https://surge.252725.xyz/module/JD_Price.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/JD.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "功能增强"
       ]
@@ -1044,7 +1055,7 @@
       "filename": "JD_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/JD_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/JD.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1055,7 +1066,7 @@
       "filename": "JiaKaoBaoDian_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/JiaKaoBaoDian_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/JiaKaoBaoDian.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1066,7 +1077,7 @@
       "filename": "JiaXiaoDrive_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/JiaXiaoDrive_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/JiaXiaoDrive.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1077,7 +1088,7 @@
       "filename": "Jin10Data_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Jin10Data_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Jin10Data.png",
-      "date": "2026-08-27 06:29:33",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1088,7 +1099,7 @@
       "filename": "Jump_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Jump_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Jump.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1099,7 +1110,7 @@
       "filename": "KGRing_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KGRing_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KGRing.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1110,7 +1121,7 @@
       "filename": "KOOK_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KOOK_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KOOK.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1121,7 +1132,7 @@
       "filename": "KebidaDushu_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KebidaDushu_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KebidaDushu.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1132,7 +1143,7 @@
       "filename": "Keep_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Keep_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Keep.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1143,7 +1154,7 @@
       "filename": "KingdeeMyMoney_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KingdeeMyMoney_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KingdeeMyMoney.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1154,7 +1165,7 @@
       "filename": "KuGouYouth_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KuGouYouth_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KuGouYouth.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1165,7 +1176,7 @@
       "filename": "KuGou_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KuGou_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KuGou.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1176,7 +1187,7 @@
       "filename": "KuaiDi100_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KuaiDi100_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KuaiDi100.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1187,7 +1198,7 @@
       "filename": "KuaiDuiZuoYe_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KuaiDuiZuoYe_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KuaiDuiZuoYe.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1198,7 +1209,7 @@
       "filename": "KuaiKanComic_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KuaiKanComic_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KuaiKanComic.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1209,7 +1220,7 @@
       "filename": "KuaiShou_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KuaiShou_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KuaiShou.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1220,7 +1231,7 @@
       "filename": "KuroBBS_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KuroBBS_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KuroBBS.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1231,7 +1242,7 @@
       "filename": "Kuwo_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Kuwo_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Kuwo.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1242,7 +1253,7 @@
       "filename": "KwaiVideoeditor_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/KwaiVideoeditor_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/KwaiVideoeditor.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1253,7 +1264,7 @@
       "filename": "LOL_Bible_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/LOL_Bible_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/LOL_Bible.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1264,7 +1275,7 @@
       "filename": "LZMH_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/LZMH_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/LZMH.png",
-      "date": "2026-08-22 02:46:00",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1275,7 +1286,7 @@
       "filename": "Line_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Line_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Line.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1286,7 +1297,7 @@
       "filename": "LiveLab_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/LiveLab_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/LiveLab.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1297,7 +1308,7 @@
       "filename": "LuckinCoffee_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/LuckinCoffee_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/LuckinCoffee.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1308,7 +1319,7 @@
       "filename": "MKZ_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MKZ_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MKZ.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1319,7 +1330,7 @@
       "filename": "MaFengWo_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MaFengWo_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MaFengWo.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1330,7 +1341,7 @@
       "filename": "MaiMai_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MaiMai_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MaiMai.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1341,7 +1352,7 @@
       "filename": "MailMaster_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MailMaster_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MailMaster.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1352,7 +1363,7 @@
       "filename": "MangoTV_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MangoTV_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Mango_TV.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1363,7 +1374,7 @@
       "filename": "MeetYou_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MeetYou_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeetYou.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1374,7 +1385,7 @@
       "filename": "MeiRiSaiChe_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MeiRiSaiChe_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeiRiSaiChe.png",
-      "date": "2026-07-02 20:41:31",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1385,7 +1396,7 @@
       "filename": "MeiShiJie_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MeiShiJie_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeiShiJie.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1396,7 +1407,7 @@
       "filename": "MeiTu_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MeiTu_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeiTu.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1407,7 +1418,7 @@
       "filename": "MeituMYXJ_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MeituMYXJ_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeituMYXJ.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1418,7 +1429,7 @@
       "filename": "Meizhixiuxing_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Meizhixiuxing_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Meizhixiuxing.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1429,7 +1440,7 @@
       "filename": "MiaoRead_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MiaoRead_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MiaoRead.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1440,7 +1451,7 @@
       "filename": "MoeGirlWiki_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MoeGirlWiki_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MoeGirlWiki.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1451,7 +1462,7 @@
       "filename": "MojiWeather_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MojiWeather_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MojiWeather.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1462,7 +1473,7 @@
       "filename": "MotorFans_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MotorFans_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MotorFans.png",
-      "date": "2026-08-23 11:48:06",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1473,7 +1484,7 @@
       "filename": "MrHema_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MrHema_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MrHema.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1484,7 +1495,7 @@
       "filename": "MyFriday_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/MyFriday_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MyFriday.png",
-      "date": "2026-06-30 17:11:12",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1495,7 +1506,7 @@
       "filename": "NarwelRobots_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/NarwelRobots_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/NarwelRobots.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1506,7 +1517,7 @@
       "filename": "NetEaseGodlike_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/NetEaseGodlike_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/NetEaseGodlike.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1517,7 +1528,7 @@
       "filename": "NeteaseCloudMusic_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/NeteaseCloudMusic_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/NeteaseCloudMusic.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1528,7 +1539,7 @@
       "filename": "NeteaseNews_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/NeteaseNews_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/NeteaseNews.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1539,7 +1550,7 @@
       "filename": "NodeLinkCheck.sgmodule",
       "url": "https://surge.252725.xyz/module/NodeLinkCheck.sgmodule",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "节点检测"
       ]
@@ -1550,7 +1561,7 @@
       "filename": "Node_detection_tool.sgmodule",
       "url": "https://surge.252725.xyz/module/Node_detection_tool.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/Node_detection_tool.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "节点检测"
       ]
@@ -1561,7 +1572,7 @@
       "filename": "OKOK_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/OKOK_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/OKOK.png",
-      "date": "2026-07-03 13:38:14",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1572,7 +1583,7 @@
       "filename": "OnTheWay_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/OnTheWay_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/OnTheWay.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1583,7 +1594,7 @@
       "filename": "OraySunlogin_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/OraySunlogin_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/OraySunlogin.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1594,7 +1605,7 @@
       "filename": "PICC_Insurance_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/PICC_Insurance_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/PICC_Insurance.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1605,7 +1616,7 @@
       "filename": "PICOOC_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/PICOOC_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/PICOOC.png",
-      "date": "2026-08-27 09:50:52",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1616,7 +1627,7 @@
       "filename": "PangguaiLife_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/PangguaiLife_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/PangguaiLife.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1627,7 +1638,7 @@
       "filename": "PerfectWorldEsport_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/PerfectWorldEsport_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/PerfectWorldEsport.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1638,7 +1649,7 @@
       "filename": "PiPiXia_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/PiPiXia_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/PiPiXia.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1649,7 +1660,7 @@
       "filename": "PinDuoDuo_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/PinDuoDuo_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/PinDuoDuo.png",
-      "date": "2026-07-11 20:21:39",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1660,7 +1671,7 @@
       "filename": "Pinterest_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Pinterest_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Pinterest.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1671,7 +1682,7 @@
       "filename": "Prevent_DNS_Leaks.sgmodule",
       "url": "https://surge.252725.xyz/module/Prevent_DNS_Leaks.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/Prevent_DNS_Leaks.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "DNS"
       ]
@@ -1682,7 +1693,7 @@
       "filename": "PuPuMall_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/PuPuMall_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/PuPuMall.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1693,7 +1704,7 @@
       "filename": "QQKSong_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/QQKSong_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QQKSong.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1704,7 +1715,7 @@
       "filename": "QQMusic_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/QQMusic_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QQMusic.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1715,7 +1726,7 @@
       "filename": "QQ_Redirect.sgmodule",
       "url": "https://surge.252725.xyz/module/QQ_Redirect.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QQ.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1726,7 +1737,7 @@
       "filename": "Qbb_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Qbb_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Qbb.png",
-      "date": "2026-08-26 11:08:19",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1737,7 +1748,7 @@
       "filename": "QiDian_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/QiDian_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QiDian.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1748,7 +1759,7 @@
       "filename": "QiXinBao_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/QiXinBao_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QiXinBao.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1759,7 +1770,7 @@
       "filename": "QtingFM_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/QtingFM_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QtingFM.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1770,7 +1781,7 @@
       "filename": "QuarkBrowser_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/QuarkBrowser_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QuarkBrowser.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1781,7 +1792,7 @@
       "filename": "QuarkScanking_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/QuarkScanking_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/QuarkScanking.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1792,7 +1803,7 @@
       "filename": "QuickSearch.sgmodule",
       "url": "https://surge.252725.xyz/module/QuickSearch.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Safari.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1803,7 +1814,7 @@
       "filename": "RQrun_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/RQrun_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/RQrun.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1814,7 +1825,18 @@
       "filename": "RedPaper_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/RedPaper_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/RedPaper.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
+      "tag": [
+        "去广告"
+      ]
+    },
+    {
+      "name": "Reddit去广告",
+      "description": "过滤应用内推广，阻止NSFW提示。",
+      "filename": "Reddit_remove_ads.sgmodule",
+      "url": "https://surge.252725.xyz/module/Reddit_remove_ads.sgmodule",
+      "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Reddit.png",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1825,7 +1847,7 @@
       "filename": "ReelShort_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ReelShort_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ReelShort.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1836,7 +1858,7 @@
       "filename": "Remove_ads_by_keli.sgmodule",
       "url": "https://surge.252725.xyz/module/Remove_ads_by_keli.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/KeLee.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1847,7 +1869,7 @@
       "filename": "RiskBird_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/RiskBird_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/RiskBird.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1858,7 +1880,7 @@
       "filename": "RoboTaxi_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/RoboTaxi_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/RoboTaxi.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1869,7 +1891,7 @@
       "filename": "Roborock_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Roborock_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Roborock.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1880,7 +1902,7 @@
       "filename": "SF-Express_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SF-Express_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SF-Express.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1891,7 +1913,7 @@
       "filename": "SafetyHome_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SafetyHome_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SafetyHome.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1902,7 +1924,7 @@
       "filename": "Script-Hub.sgmodule",
       "url": "https://surge.252725.xyz/module/Script-Hub.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/Script-Hub.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "资源转换"
       ]
@@ -1913,7 +1935,7 @@
       "filename": "SeasunJX3_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SeasunJX3_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SeasunJX3.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1924,7 +1946,7 @@
       "filename": "SevenCat_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SevenCat_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SevenCat.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1935,7 +1957,7 @@
       "filename": "ShandongSchool_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ShandongSchool_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ShandongSchool.png",
-      "date": "2026-09-21 00:06:55",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1946,7 +1968,7 @@
       "filename": "ShopKeeperAdmin_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ShopKeeperAdmin_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ShopKeeperAdmin.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1957,7 +1979,7 @@
       "filename": "ShouYinTongMerchant_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ShouYinTongMerchant_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ShouYinTongMerchant.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1968,7 +1990,7 @@
       "filename": "ShoujiDesk_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ShoujiDesk_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ShoujiDesk.png",
-      "date": "2026-09-15 23:26:38",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1979,7 +2001,7 @@
       "filename": "ShuQiCenterReader_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ShuQiCenterReader_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ShuQiCenterReader.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -1990,7 +2012,7 @@
       "filename": "SinaStock_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SinaStock_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SinaStock.png",
-      "date": "2026-08-26 14:19:33",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2001,7 +2023,7 @@
       "filename": "SkyworthDigitalPicamera_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SkyworthDigitalPicamera_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SkyworthDigitalPicamera.png",
-      "date": "2026-07-03 12:07:27",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2012,7 +2034,7 @@
       "filename": "SmartLife_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SmartLife_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SmartLife.png",
-      "date": "2026-07-01 21:36:10",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2023,7 +2045,7 @@
       "filename": "SnailSleep_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SnailSleep_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SnailSleep.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2034,7 +2056,7 @@
       "filename": "SnowCamera_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SnowCamera_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SnowCamera.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2045,7 +2067,7 @@
       "filename": "Snowball_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Snowball_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Snowball.png",
-      "date": "2026-08-24 19:33:07",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2056,7 +2078,7 @@
       "filename": "SodaMusic_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SodaMusic_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SodaMusic.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2067,7 +2089,7 @@
       "filename": "Sofascore_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Sofascore_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Sofascore.png",
-      "date": "2026-08-22 03:55:33",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2078,7 +2100,7 @@
       "filename": "Soul_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Soul_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Soul.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2089,7 +2111,7 @@
       "filename": "Spotify_lyrics_translation.sgmodule",
       "url": "https://surge.252725.xyz/module/Spotify_lyrics_translation.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Spotify.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "功能增强"
       ]
@@ -2100,7 +2122,7 @@
       "filename": "Spotify_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Spotify_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Spotify.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2111,7 +2133,7 @@
       "filename": "SuZhouCitizenCard_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/SuZhouCitizenCard_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SuZhouCitizenCard.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2122,7 +2144,7 @@
       "filename": "Sub-Store.sgmodule",
       "url": "https://surge.252725.xyz/module/Sub-Store.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/Sub-Store.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "订阅管理"
       ]
@@ -2133,7 +2155,7 @@
       "filename": "TCLnScreen_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/TCLnScreen_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TCLnScreen.png",
-      "date": "2026-07-31 23:26:04",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2144,7 +2166,7 @@
       "filename": "TV_Assistant_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/TV_Assistant_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TV_Assistant.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2155,7 +2177,7 @@
       "filename": "TXDocs_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/TXDocs_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TXDocs.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2166,7 +2188,7 @@
       "filename": "TaobaoTravel_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/TaobaoTravel_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TaobaoTravel.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2177,7 +2199,7 @@
       "filename": "Taobao_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Taobao_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Taobao.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2188,7 +2210,7 @@
       "filename": "Taopiaopiao_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Taopiaopiao_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Taopiaopiao.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2199,7 +2221,7 @@
       "filename": "Taqu_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Taqu_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Taqu.png",
-      "date": "2026-06-12 14:11:11",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2210,7 +2232,7 @@
       "filename": "TelegramRedirect.sgmodule",
       "url": "https://surge.252725.xyz/module/TelegramRedirect.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Telegram.png",
-      "date": "2026-08-03 15:27:21",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2221,7 +2243,7 @@
       "filename": "Tencent_Video_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Tencent_Video_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Tencent_Video.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2232,7 +2254,7 @@
       "filename": "TeraBox_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/TeraBox_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TeraBox.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2243,7 +2265,7 @@
       "filename": "TestFlightRegionUnlock.sgmodule",
       "url": "https://surge.252725.xyz/module/TestFlightRegionUnlock.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TestFlight.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "功能增强"
       ]
@@ -2254,7 +2276,7 @@
       "filename": "TianQiTong_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/TianQiTong_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TianQiTong.png",
-      "date": "2026-07-02 20:09:47",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2265,7 +2287,7 @@
       "filename": "Tieba_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Tieba_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Tieba.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2276,7 +2298,7 @@
       "filename": "TmallCampus_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/TmallCampus_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TmallCampus.png",
-      "date": "2026-06-30 18:13:11",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2287,7 +2309,7 @@
       "filename": "TuGuaiShou_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/TuGuaiShou_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TuGuaiShou.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2298,7 +2320,7 @@
       "filename": "TubeMax_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/TubeMax_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TubeMax.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2309,7 +2331,7 @@
       "filename": "Tumblr_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Tumblr_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Tumblr.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2320,7 +2342,7 @@
       "filename": "Uki_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Uki_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Uki.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2331,7 +2353,7 @@
       "filename": "Umetrip_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Umetrip_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Umetrip.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2342,7 +2364,7 @@
       "filename": "UnnooQuan_remove_watermark.sgmodule",
       "url": "https://surge.252725.xyz/module/UnnooQuan_remove_watermark.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/UnnooQuan.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": []
     },
     {
@@ -2351,7 +2373,7 @@
       "filename": "VVebo_repair.sgmodule",
       "url": "https://surge.252725.xyz/module/VVebo_repair.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/VVebo.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "功能增强"
       ]
@@ -2362,7 +2384,7 @@
       "filename": "ValorantBible_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ValorantBible_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ValorantBible.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2373,7 +2395,7 @@
       "filename": "VideoGo_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/VideoGo_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/VideoGo.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2384,7 +2406,7 @@
       "filename": "WARP_Node_Query.sgmodule",
       "url": "https://surge.252725.xyz/module/WARP_Node_Query.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/1.1.1.1.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "节点检测"
       ]
@@ -2395,7 +2417,7 @@
       "filename": "WPForum_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/WPForum_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WPForum.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2406,7 +2428,7 @@
       "filename": "WPS_Documents_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/WPS_Documents_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WPS_Documents.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2417,7 +2439,7 @@
       "filename": "WPS_checkin.sgmodule",
       "url": "https://surge.252725.xyz/module/WPS_checkin.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WPS.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "签到"
       ]
@@ -2428,7 +2450,7 @@
       "filename": "WaCaiJiZhang_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/WaCaiJiZhang_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WaCaiJiZhang.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2439,7 +2461,7 @@
       "filename": "Wacai_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Wacai_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Wacai.png",
-      "date": "2026-06-30 22:54:46",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2450,7 +2472,7 @@
       "filename": "WakeupSchedule_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/WakeupSchedule_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WakeupSchedule.png",
-      "date": "2026-07-01 10:56:37",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2461,7 +2483,7 @@
       "filename": "Walmart_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Walmart_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Walmart.png",
-      "date": "2026-06-02 02:30:18",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2472,7 +2494,7 @@
       "filename": "WeatherChina_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/WeatherChina_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WeatherChina.png",
-      "date": "2026-06-30 21:38:58",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2483,7 +2505,7 @@
       "filename": "Weibo_intl_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Weibo_intl_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Weibo_intl.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2494,7 +2516,7 @@
       "filename": "Weibo_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Weibo_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Weibo.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2505,7 +2527,7 @@
       "filename": "Weidian_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Weidian_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Weidian.png",
-      "date": "2026-08-27 22:53:53",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2516,7 +2538,7 @@
       "filename": "Weimai_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Weimai_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Weimai.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2527,7 +2549,7 @@
       "filename": "Weixin_Official_Accounts_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Weixin_Official_Accounts_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Weixin.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2538,7 +2560,7 @@
       "filename": "Weixin_external_links_unlock.sgmodule",
       "url": "https://surge.252725.xyz/module/Weixin_external_links_unlock.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Weixin.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "功能增强"
       ]
@@ -2549,7 +2571,7 @@
       "filename": "WexinMiniPrograms_Remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/WexinMiniPrograms_Remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WeixinMiniPrograms.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2560,7 +2582,7 @@
       "filename": "WutaCamera_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/WutaCamera_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WutaCamera.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2571,7 +2593,7 @@
       "filename": "XFuse_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/XFuse_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XFuse.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2582,7 +2604,7 @@
       "filename": "XiaChuFang_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/XiaChuFang_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XiaChuFang.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2593,7 +2615,7 @@
       "filename": "XiaoCan_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/XiaoCan_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XiaoCan.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2604,7 +2626,7 @@
       "filename": "XiaoHeiHe_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/XiaoHeiHe_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XiaoHeiHe.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2615,7 +2637,7 @@
       "filename": "XiaobaiPrint_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/XiaobaiPrint_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XiaobaiPrint.png",
-      "date": "2026-07-03 10:43:28",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2626,7 +2648,7 @@
       "filename": "XiaojukejiCharge_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/XiaojukejiCharge_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XiaojukejiCharge.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2637,7 +2659,7 @@
       "filename": "XiaomiSpeaker_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/XiaomiSpeaker_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XiaomiSpeaker.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2648,7 +2670,7 @@
       "filename": "XunLei_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/XunLei_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XunLei.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2659,7 +2681,7 @@
       "filename": "YYVoiceTool_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YYVoiceTool_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YYVoiceTool.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2670,7 +2692,7 @@
       "filename": "YY_Voice_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YY_Voice_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YY_Voice.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2681,7 +2703,7 @@
       "filename": "YiKaoBang_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YiKaoBang_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YiKaoBang.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2692,7 +2714,7 @@
       "filename": "YiSchool_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YiSchool_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YiSchool.png",
-      "date": "2026-07-01 22:53:08",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2703,7 +2725,7 @@
       "filename": "Yitian_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Yitian_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Yitian.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2714,7 +2736,7 @@
       "filename": "YouKu_Video_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YouKu_Video_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YouKu_Video.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2725,7 +2747,7 @@
       "filename": "YouTubeSubtitlesTranslation.sgmodule",
       "url": "https://surge.252725.xyz/module/YouTubeSubtitlesTranslation.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YouTube.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "功能增强"
       ]
@@ -2736,7 +2758,7 @@
       "filename": "YouTube_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YouTube_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YouTube.png",
-      "date": "2026-07-23 03:47:41",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2747,7 +2769,7 @@
       "filename": "YoudaoDict_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YoudaoDict_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YoudaoDict.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2758,7 +2780,7 @@
       "filename": "YoudaoNote_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YoudaoNote_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YoudaoNote.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2769,7 +2791,7 @@
       "filename": "YoudaoTrans_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YoudaoTrans_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YoudaoTrans.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2780,7 +2802,7 @@
       "filename": "YueDanBa_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YueDanBa_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YueDanBa.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2791,7 +2813,7 @@
       "filename": "Yueyou_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Yueyou_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Yueyou.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2802,7 +2824,7 @@
       "filename": "YunmaiScale_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/YunmaiScale_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YunmaiScale.png",
-      "date": "2026-07-15 10:19:17",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2813,7 +2835,7 @@
       "filename": "ZAKER_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ZAKER_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ZAKER.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2824,7 +2846,7 @@
       "filename": "ZhiLianZhaoPin_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ZhiLianZhaoPin_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ZhiLianZhaoPin.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2835,7 +2857,7 @@
       "filename": "Zhibo8_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Zhibo8_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Zhibo8.png",
-      "date": "2026-09-14 15:46:32",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2846,7 +2868,7 @@
       "filename": "Zhihu_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/Zhihu_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Zhihu.png",
-      "date": "2026-09-28 19:47:34",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2857,7 +2879,7 @@
       "filename": "ZhuanZhuan_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ZhuanZhuan_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ZhuanZhuan.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2868,7 +2890,7 @@
       "filename": "ZongHeng_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ZongHeng_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ZongHeng.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2879,7 +2901,7 @@
       "filename": "ZuiYou_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ZuiYou_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ZuiYou.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2890,7 +2912,7 @@
       "filename": "iMaiCai_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/iMaiCai_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/iMaiCai.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2901,7 +2923,7 @@
       "filename": "iQiYi_Video_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/iQiYi_Video_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/iQiYi_Video.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2912,7 +2934,7 @@
       "filename": "iReaderCityWeather_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/iReaderCityWeather_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/iReaderCityWeather.png",
-      "date": "2026-06-30 19:41:51",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2923,7 +2945,7 @@
       "filename": "iReaderDejian_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/iReaderDejian_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/iReaderDejian.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2934,7 +2956,7 @@
       "filename": "iReader_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/iReader_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/iReader.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2945,7 +2967,7 @@
       "filename": "iWallBiZhi_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/iWallBiZhi_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/iWallBiZhi.png",
-      "date": "2026-08-27 20:03:32",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2956,7 +2978,7 @@
       "filename": "ifengNews_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/ifengNews_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ifengNews.png",
-      "date": "2026-07-01 11:32:25",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2967,7 +2989,7 @@
       "filename": "marki_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/marki_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/marki.png",
-      "date": "2026-08-22 01:54:03",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2978,7 +3000,7 @@
       "filename": "miHoYoBBS_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/miHoYoBBS_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/miHoYoBBS.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
@@ -2989,7 +3011,18 @@
       "filename": "mobileClouds_remove_ads.sgmodule",
       "url": "https://surge.252725.xyz/module/mobileClouds_remove_ads.sgmodule",
       "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/mobileClouds.png",
-      "date": "2026-06-01 17:11:35",
+      "date": "2026-10-02 13:57:49",
+      "tag": [
+        "去广告"
+      ]
+    },
+    {
+      "name": "什么值得买去广告",
+      "description": "移除开屏广告、信息流广告、各类横幅广告、搜索页广告、文章内广告，移除活动皮肤、精简我的页面。",
+      "filename": "smzdm_remove_ads.sgmodule",
+      "url": "https://surge.252725.xyz/module/smzdm_remove_ads.sgmodule",
+      "icon": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/smzdm.png",
+      "date": "2026-10-02 13:57:49",
       "tag": [
         "去广告"
       ]
